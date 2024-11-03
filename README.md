@@ -40,7 +40,7 @@ I’m a **Software Development Engineer** with over two years of experience in b
 
 - **LinkedIn**: [Kaustubh Thapliyal](https://linkedin.com/in/kaustubhthapliyal)
 - **Email**: kaustubhthapliyal245@gmail.com
-- **Coding Profiles**: [Leetcode](https://leetcode.com/your_username), [HackerRank](https://www.hackerrank.com/your_username), [Codeforces](https://codeforces.com/profile/your_username)
+- **Coding Profiles**: [Leetcode](https://leetcode.com/u/kaustubh8727/), [HackerRank](https://www.hackerrank.com/profile/kaustubhthapliy1), [Codeforces](https://codeforces.com/profile/kst-1)
 
 
 ---
