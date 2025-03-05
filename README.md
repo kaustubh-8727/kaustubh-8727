@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kaustubh Thapliyal
 
-I’m a **Software Development Engineer** with over two years of experience in building scalable and efficient software solutions. My expertise spans **backend and frontend technologies**, allowing me to create full-stack applications that are both robust and performant. I thrive in Agile environments and love collaborating to bring innovative ideas to life. Let’s connect and create something amazing together!
+I’m a **Software Development Engineer** with over three years of experience in building scalable and efficient software solutions. My expertise spans **backend and frontend technologies**, allowing me to create full-stack applications that are both robust and performant. I thrive in Agile environments and love collaborating to bring innovative ideas to life. Let’s connect and create something amazing together!
 
 ---
 
