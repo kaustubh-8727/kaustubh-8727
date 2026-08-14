@@ -139,15 +139,39 @@ Graphic Era (Deemed to be) University, Dehradun
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-8727&show_icons=true&theme=radical" alt="Kaustubh's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-8727&theme=radical" alt="GitHub streak" height="180"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaustubh-8727&theme=radical"
+    alt="Kaustubh's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaustubh-8727&theme=radical&utcOffset=5.5"
+    alt="Kaustubh's Productive Time"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-8727&layout=compact&theme=radical" alt="Top languages" height="150"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaustubh-8727&theme=radical"
+    alt="Kaustubh's Top Languages"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaustubh-8727&theme=radical"
+    alt="Kaustubh's Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubh-8727&theme=radical"
+    alt="Kaustubh's GitHub Profile Details"
+  />
 </p>
 
 ---
