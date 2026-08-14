@@ -14,8 +14,11 @@
 
 ### 💡 About Me
 
-I'm a **Software Engineer II** with 3+ years of experience designing and building **high-performance microservices, real-time data pipelines, and cloud-native applications**.
+I'm a **Software Engineer II** with 4+ years of experience designing and building **high-performance microservices, real-time data pipelines, and cloud-native applications**.
 
+Currently at **Warner Bros. Discovery (Ad-Tech)**, I’m developing **data-driven, low-latency systems** that power personalized audience analytics and insights for millions of users. 
+
+Previously at **Teradata**, I optimized enterprise-scale data platforms, implemented **HashiCorp Vault security**, automated **multi-cloud deployments**, and built **high-performance analytics dashboards** using **Golang, Spring Boot, Angular**, and **AWS**.
 ...
 
 🏆 **Highlights:**
