@@ -12,20 +12,28 @@
 
 ---
 
-### 💡 About Me  
+### 💡 About Me
 
-I'm a **Software Engineer II** with 3+ years of experience designing and building **high-performance microservices, real-time data pipelines, and cloud-native applications**.  
+I'm a **Software Engineer II** with 3+ years of experience designing and building **high-performance microservices, real-time data pipelines, and cloud-native applications**.
 
-Currently at **Warner Bros. Discovery (Ad-Tech)**, I’m developing **data-driven, low-latency systems** that power personalized audience analytics and insights for millions of users.  
+...
 
-Previously at **Teradata**, I optimized enterprise-scale data platforms, implemented **HashiCorp Vault security**, automated **multi-cloud deployments**, and built **high-performance analytics dashboards** using **Golang, Spring Boot, Angular**, and **AWS**.  
+🏆 **Highlights:**
+- ⏱️ Reduced data processing time **14h → 2h** using multithreading, batching & optimized data structures.
+- ☁️ Automated **multi-cloud deployments** (AWS, Azure, GCP) with IaC and Lambda.
+- 🔐 Integrated **HashiCorp Vault** for secure credential management.
+- 📊 Built dashboards visualizing **1M+ records in real time** with Golang + ECharts.
+- 🧠 **4⭐ LeetCode**, **5⭐ HackerRank**, **Hackathon Finalist**, and **IEEE-published researcher**.
 
-🏆 **Highlights:**  
-- ⏱️ Reduced data processing time **14h → 2h** using multithreading, batching & optimized data structures.  
-- ☁️ Automated **multi-cloud deployments** (AWS, Azure, GCP) with IaC and Lambda.  
-- 🔐 Integrated **HashiCorp Vault** for secure credential management.  
-- 📊 Built dashboards visualizing **1M+ records in real time** with Golang + ECharts.  
-- 🧠 **4⭐ LeetCode**, **5⭐ HackerRank**, **Hackathon Finalist**, and **IEEE-published researcher**.  
+---
+
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/kaustubh8727/">
+    <img src="https://leetcard.jacoblin.cool/kaustubh8727?theme=dark&ext=contest" alt="Kaustubh's LeetCode Stats"/>
+  </a>
+</p>
 
 ---
 
