@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kaustubh Thapliyal</h1>
-<h3 align="center">Software Engineer II | Backend • Cloud • Distributed Systems</h3>
+<h3 align="center">Software Engineer II | Distributed Systems | Cloud-Native Architecture | Go & Java | Applied ML</h3>
 
 <p align="center">
   <a href="mailto:kaustubhthapliyal245@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
